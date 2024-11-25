@@ -42,3 +42,8 @@ A_IconTip := "CmdToCtrl 2024.11"
 #+z:: {
     Send "^+z"
 }
+
+; Win + /
+#/:: {
+    Send "^/"
+}
