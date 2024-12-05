@@ -1,7 +1,7 @@
 #Requires AutoHotkey v2.0
 #SingleInstance Force
 
-A_IconTip := "CmdToCtrl 2024.11"
+A_IconTip := "Cmd2Ctrl 2024.12"
 
 ; Win + a
 #a:: {
